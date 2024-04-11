@@ -41,3 +41,14 @@ body {
     padding: 20px;
   }
   
+  #profile {
+    width: 50%; 
+  }
+
+  #site {
+    width: 75%; 
+  }
+
+  #code {
+    width: 50%; 
+  }
